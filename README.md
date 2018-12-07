@@ -1,3 +1,12 @@
+<html>
+<head>
+<meta name="google-site-verification" content="9Na92S4woNvPNftIrd6EY0QobVnfMtpGEtogo8vIs88" />
+<title> My title </title>
+</head> 
+<body>
+page contents
+</body>
+</html>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/epworth/xagacity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
